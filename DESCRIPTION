@@ -1,0 +1,10 @@
+Package: ToptenP
+Type: Package
+Title: Replicating Roger Peng's top ten features package
+Version: 0.1.0
+Date: 03/14/2017
+Author: Balan Gnanam
+Maintainer: Balan Gnanam <balantgnanam@gmail.com>
+Description: Functions for building and predicting models from selecting the top 10 features
+License: GPL-3
+RoxygenNote: 6.0.1
